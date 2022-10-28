@@ -1,16 +1,5 @@
-# todo_app
+# ToDo App (Firebase RealTimeDatabase)
 
-A new Flutter project.
+Don't forget to initialize firebase to run the codes
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![github](https://user-images.githubusercontent.com/72278145/198685216-92180a8b-a459-4de4-aba0-05bd500735d2.gif)
